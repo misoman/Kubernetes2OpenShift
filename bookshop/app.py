@@ -4,7 +4,7 @@ import requests
 
 
 app = Flask(__name__)
-BOOKS = ['f', 'u', 'č', "k", "a", "je bleeeeeeeeeaaaaaaaa"]
+BOOKS = ['f', 'u', 'č', "k", "a", "je bleeeeeeeeeuuuu"]
 
 @app.route("/")
 def hello():
